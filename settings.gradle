@@ -1,0 +1,2 @@
+rootProject.name='Products(Room With Recycler View)'
+include ':app'
